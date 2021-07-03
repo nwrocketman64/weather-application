@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="town">Rexburg</string>
+    <string name="status">TextView</string>
+    <string name="condition">TextView</string>
+    <string name="temp1">TextView</string>
+    <string name="temp2">TextView</string>
+    <string name="data1">TextView</string>
+    <string name="data2">TextView</string>
+    <string name="refresh">Refresh</string>
+    <string name="last_updated">TextView</string>
+    <string name="location">TextView</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="background">Background</string>
+</resources>
